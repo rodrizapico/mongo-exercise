@@ -1,0 +1,24 @@
+{
+  "name": "mongo-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "csv-generate": "^3.2.4",
+    "mongodb": "^3.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrizapico/mongo-exercise.git"
+  },
+  "author": "Rodrigo Zapico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrizapico/mongo-exercise/issues"
+  },
+  "homepage": "https://github.com/rodrizapico/mongo-exercise#readme"
+}
